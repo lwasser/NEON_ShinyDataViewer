@@ -1,0 +1,93 @@
+fieldName,description,dataType,units,downloadPkg
+windSpeedMean,Arithmetic mean of wind speed,real,metersPerSecond,basic
+windSpeedMinimum,Minimum wind speed,real,metersPerSecond,basic
+windSpeedMaximum,Maximum wind speed,real,metersPerSecond,basic
+windSpeedVariance,Variance in wind speed,real,metersPerSecondSquared,basic
+windSpeedNumPts,Number of points used to calculate the arithmetic mean of wind speed,real,NA,basic
+windSpeedExpUncert,Expanded uncertainty for wind speed,real,metersPerSecond,basic
+windSpeedStdErMean,Standard error of the mean for wind speed,real,metersPerSecond,basic
+windSpeedRangeQAQCRpt,"Wind speed quality assurance and quality control report for the range test, which indicates whether a datum exceeds a realistic value, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedPersistenceQAQCRpt,"Wind speed quality assurance and quality control report for the persistence test, which indicates  whether there is a realistic fluctuation of values over a designated period of time, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedStepQAQCRpt,"Wind speed quality assurance and quality control report for the step test, which indicates whether unusual jumps in the data exist, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedNullQAQCRpt,"Wind speed quality assurance and quality control report for the null test, which indicates a missing datum, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedGapQAQCRpt,"Wind speed quality assurance and quality control report for the gap test, which indicates that the datum is missing and is apart of a prolonged period of missing data, detailed in NEON.DOC.011081 (1=fail, 0=pass)",string,NA,request
+windSpeedConsistencyQAQCRpt,"Wind speed quality assurance and quality control report for the consistency test, which indicates whether or not measurements are consistent with co-located measurements, (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedSensorErrorQAQCRpt,"Wind speed quality assurance and quality control report for sensor errors, which indicates whether or not the sensor was reporting an error, (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedSpikeQAQCRpt,"Wind speed quality assurance and quality control report for the spike test, which indicates whether or not a datum has been identified as a spike, detailed in NEON.DOC.000783 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedAlphaQAQCRpt,"Wind speed quality assurance and quality control report for the alpha quality flag, which indicates if one or more quality analysis failed for a datum, detailed in NEON.DOC.001113 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windSpeedBetaQAQCRpt,"Wind speed quality assurance and quality control report for the beta quality flag, which indicates if one or more quality analysis could not be run for a datum, detailed in NEON.DOC.001113 (1=fail, 0=pass, -1=NA (i.e., couldn't be run))",string,NA,request
+windSpeedRangeFailQM,"Wind speed quality metric that summarizes the failed outcomes of the range test over the averaging period, as a percent",real,percent,expanded
+windSpeedRangePassQM,"Wind speed quality metric that summarizes the passed outcomes of the range test over the averaging period, as a percent",real,percent,expanded
+windSpeedRangeNAQM,"Wind speed quality metric that summarizes when the range test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedPersistenceFailQM,"Wind speed quality metric that summarizes  the failed outcomes of the persistence test over the averaging period, as a percent",real,percent,expanded
+windSpeedPersistencePassQM,"Wind speed quality metric that summarizes the passed outcomes of the persistence test over the averaging period, as a percent",real,percent,expanded
+windSpeedPersistenceNAQM,"Wind speed quality metric that summarizes when the persistence test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedStepFailQM,"Wind speed quality metric that summarizes the failed outcomes of the step test over the averaging period, as a percent",real,percent,expanded
+windSpeedStepPassQM,"Wind speed quality metric that summarizes the passed outcomes of the step test over the averaging period, as a percent",real,percent,expanded
+windSpeedStepNAQM,"Wind speed quality metric that summarizes when the step test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedNullFailQM,"Wind speed quality metric that summarizes the failed outcomes of the null test over the averaging period, as a percent",real,percent,expanded
+windSpeedNullPassQM,"Wind speed quality metric that summarizes the passed outcomes of the null test over the averaging period, as a percent",real,percent,expanded
+windSpeedNullNAQM,"Wind speed quality metric that summarizes when the null test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedGapFailQM,"Wind speed quality metric that summarizes the failed outcomes of the gap test over the averaging period, as a percent",real,percent,expanded
+windSpeedGapPassQM,"Wind speed quality metric that summarizes the passed outcomes of the gap test over the averaging period, as a percent",real,percent,expanded
+windSpeedGapNAQM,"Wind speed quality metric that summarizes when the gap test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedSpikeFailQM,"Wind speed quality metric that summarizes the failed outcomes of the spike test over the averaging period, as a percent",real,percent,expanded
+windSpeedSpikePassQM,"Wind speed quality metric that summarizes the passed outcomes of the spike test over the averaging period, as a percent",real,percent,expanded
+windSpeedSpikeNAQM,"Wind speed quality metric that summarizes when the spike test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedConsistencyFailQM,"Wind speed quality metric that summarizes the failed outcomes of the consistency test over the averaging period, as a percent",real,percent,expanded
+windSpeedConsistencyPassQM,"Wind speed quality metric that summarizes the passed outcomes of the consistency test over the averaging period, as a percent",real,percent,expanded
+windSpeedConsistencyNAQM,"Wind speed quality metric that summarizes when the consistency test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedSensorErrorFailQM,"Wind speed quality metric that summarizes the failed outcomes of the sensor error test over the averaging period, as a percent",real,percent,expanded
+windSpeedSensorErrorPassQM,"Wind speed quality metric that summarizes the passed outcomes of the sensor error test over the averaging period, as a percent",real,percent,expanded
+windSpeedSensorErrorNAQM,"Wind speed quality metric that summarizes when the sensor error test could not be run over the averaging period, as a percent",real,percent,expanded
+windSpeedAlphaQM,"Wind speed quality metric detailing the outcomes of the alpha quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113",real,percent,expanded
+windSpeedBetaQM,"Wind speed quality metric detailing the outcomes of the beta quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113",real,percent,expanded
+windSpeedCalmWindQF,"Wind speed quality flag for the calm wind test, as detailed in NEON.DOC.000780 (1=fail, 0=pass, -1=NA (i.e., couldn't be run))",real,NA,expanded
+windSpeedFinalQF,"Wind speed quality flag indicating whether a data product has passed or failed an overall assessment of its quality, detailed in NEON.DOC.001113 (1=fail, 0=pass)",real,NA,basic
+windDirMean,Arithmetic mean of wind direction,real,degree,basic
+windDirVariance,Variance in wind direction,real,degreesSquared,basic
+windDirNumPts,Number of points used to calculate the arithmetic mean of wind direction,real,NA,basic
+windDirExpUncert,Expanded uncertainty for wind direction,real,degree,basic
+windDirStdErMean,Standard error of the mean for wind direction,real,degree,basic
+windDirRangeQAQCRpt,"Wind direction quality assurance and quality control report for the range test, which indicates whether a datum exceeds a realistic value, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirPersistenceQAQCRpt,"Wind direction quality assurance and quality control report for the persistence test, which indicates  whether there is a realistic fluctuation of values over a designated period of time, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirStepQAQCRpt,"Wind direction quality assurance and quality control report for the step test, which indicates whether unusual jumps in the data exist, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirNullQAQCRpt,"Wind direction quality assurance and quality control report for the null test, which indicates a missing datum, detailed in NEON.DOC.011081 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirGapQAQCRpt,"Wind direction quality assurance and quality control report for the gap test, which indicates that the datum is missing and is apart of a prolonged period of missing data, detailed in NEON.DOC.011081 (1=fail, 0=pass)",string,NA,request
+windDirConsistencyQAQCRpt,"Wind direction quality assurance and quality control report for the consistency test, which indicates whether or not measurements are consistent with co-located measurements, (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirSpikeQAQCRpt,"Wind direction quality assurance and quality control report for the spike test, which indicates whether or not a datum has been identified as a spike, detailed in NEON.DOC.000783 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirDistortedFlowQAQCRpt,"Wind direction quality assurance and quality control report for distorted flow, which indicates whether or not a wind measurement has been influenced by obstacles upstream of the sensor, detailed in NEON.DOC.000783 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirSensorErrorQAQCRpt,"Wind direction quality assurance and quality control report for sensor errors, which indicates whether or not the sensor was reporting an error, (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirAlphaQAQCRpt,"Wind direction quality assurance and quality control report for the alpha quality flag, which indicates if one or more quality analysis failed for a datum, detailed in NEON.DOC.001113 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirBetaQAQCRpt,"Wind direction quality assurance and quality control report for the beta quality flag, which indicates if one or more quality analysis could not be run for a datum, detailed in NEON.DOC.001113 (1=fail, 0=pass, -1=NA (i.e, couldn't be run))",string,NA,request
+windDirRangeFailQM,"Wind direction quality metric that summarizes the failed outcomes of the range test over the averaging period, as a percent",real,percent,expanded
+windDirRangePassQM,"Wind direction quality metric that summarizes the passed outcomes of the range test over the averaging period, as a percent",real,percent,expanded
+windDirRangeNAQM,"Wind direction quality metric that summarizes when the range test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirPersistenceFailQM,"Wind direction quality metric that summarizes  the failed outcomes of the persistence test over the averaging period, as a percent",real,percent,expanded
+windDirPersistencePassQM,"Wind direction quality metric that summarizes the passed outcomes of the persistence test over the averaging period, as a percent",real,percent,expanded
+windDirPersistenceNAQM,"Wind direction quality metric that summarizes when the persistence test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirStepFailQM,"Wind direction quality metric that summarizes the failed outcomes of the step test over the averaging period, as a percent",real,percent,expanded
+windDirStepPassQM,"Wind direction quality metric that summarizes the passed outcomes of the step test over the averaging period, as a percent",real,percent,expanded
+windDirStepNAQM,"Wind direction quality metric that summarizes when the step test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirNullFailQM,"Wind direction quality metric that summarizes the failed outcomes of the null test over the averaging period, as a percent",real,percent,expanded
+windDirNullPassQM,"Wind direction quality metric that summarizes the passed outcomes of the null test over the averaging period, as a percent",real,percent,expanded
+windDirNullNAQM,"Wind direction quality metric that summarizes when the null test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirGapFailQM,"Wind direction quality metric that summarizes the failed outcomes of the gap test over the averaging period, as a percent",real,percent,expanded
+windDirGapPassQM,"Wind direction quality metric that summarizes the passed outcomes of the gap test over the averaging period, as a percent",real,percent,expanded
+windDirGapNAQM,"Wind direction quality metric that summarizes when the gap test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirSpikeFailQM,"Wind direction quality metric that summarizes the failed outcomes of the spike test over the averaging period, as a percent",real,percent,expanded
+windDirSpikePassQM,"Wind direction quality metric that summarizes the passed outcomes of the spike test over the averaging period, as a percent",real,percent,expanded
+windDirSpikeNAQM,"Wind direction quality metric that summarizes when the spike test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirConsistencyFailQM,"Wind direction quality metric that summarizes the failed outcomes of the consistency test over the averaging period, as a percent",real,percent,expanded
+windDirConsistencyPassQM,"Wind direction quality metric that summarizes the passed outcomes of the consistency test over the averaging period, as a percent",real,percent,expanded
+windDirConsistencyNAQM,"Wind direction quality metric that summarizes when the consistency test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirDistortedFlowFailQM,"Wind direction quality metric that summarizes the failed outcomes of the distorted flow test over the averaging period, as a percent",real,percent,expanded
+windDirDistortedFlowPassQM,"Wind direction quality metric that summarizes the passed outcomes of the distorted flow test over the averaging period, as a percent",real,percent,expanded
+windDirDistortedFlowNAQM,"Wind direction quality metric that summarizes when the distorted flow test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirSensorErrorFailQM,"Wind direction quality metric that summarizes the failed outcomes of the sensor error test over the averaging period, as a percent",real,percent,expanded
+windDirSensorErrorPassQM,"Wind direction quality metric that summarizes the passed outcomes of the sensor error test over the averaging period, as a percent",real,percent,expanded
+windDirSensorErrorNAQM,"Wind direction quality metric that summarizes when the sensor error test could not be run over the averaging period, as a percent",real,percent,expanded
+windDirAlphaQM,"Wind direction quality metric detailing the outcomes of the alpha quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113",real,percent,expanded
+windDirBetaQM,"Wind direction quality metric detailing the outcomes of the beta quality flag over the averaging period, as a percent and detailed in NEON.DOC.001113",real,percent,expanded
+windDirCalmWindQF,"Wind direction quality flag for the calm wind test, as detailed in NEON.DOC.000780 (1=fail, 0=pass, -1=NA (i.e., couldn't be run))",real,NA,expanded
+windDirFinalQF,"Wind direction quality flag indicating whether a data product has passed or failed an overall assessment of its quality, detailed in NEON.DOC.001113 (1=fail, 0=pass)",real,NA,basic

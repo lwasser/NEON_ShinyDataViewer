@@ -1,0 +1,147 @@
+Data package from NEON Inc.
+These data are provided under the terms of the NEON data policy, included in this data download.
+Data Product ID: NEON.DOM.SITE.DP1.00002.001
+Data Product Name: Single Aspirated Air Temperature
+Date-Time of Query Submission (UTC): 2015-05-19 19:08:18
+Start Date-Time for Data (UTC): 2014-06-01 00:00:00
+End Date-Time for Data (UTC): 2015-05-31 23:59:59
+
+Site: DELA Dead Lake Site, RELOCATABLE
+Geographic coordinates (lat/long): 32.54172/-87.80389
+Domain: D08 Ozarks Complex
+
+Site: TALL Talladega National Forest Site, CORE
+Geographic coordinates (lat/long): 32.95046/-87.39327
+Domain: D08 Ozarks Complex
+
+Site: RMNP Rocky Mountain National Park Site, RELOCATABLE
+Geographic coordinates (lat/long): 40.27591/-105.54592
+Domain: D10 Central Plains
+
+Site: STER Sterling Site, RELOCATABLE
+Geographic coordinates (lat/long): 40.4619/-103.0293
+Domain: D10 Central Plains
+
+Site: CPER Central Plains Experimental Range Site, CORE
+Geographic coordinates (lat/long): 40.815534/-104.745602
+Domain: D10 Central Plains
+
+Site: DSNY Disney Wilderness Preserve Site, RELOCATABLE
+Geographic coordinates (lat/long): 28.12504/-81.4362
+Domain: D03 Southeast
+
+Site: OSBS Ordway-Swisher Biological Station Site, CORE
+Geographic coordinates (lat/long): 29.689282/-81.993431
+Domain: D03 Southeast
+
+Site: JERC Jones Ecological Research Center Site, RELOCATABLE
+Geographic coordinates (lat/long): 31.19484/-84.46861
+Domain: D03 Southeast
+
+This package was generated on: 2015-05-19
+
+This package contains the following files:
+NEON.D03.DSNY.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D03.DSNY.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D03.DSNY.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D03.DSNY.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D03.DSNY.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D03.DSNY.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.D03.JERC.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D03.JERC.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D03.JERC.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D03.JERC.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D03.JERC.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D03.JERC.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.D03.JERC.DP1.00002.001.000.040.001.SAAT_1min.csv
+NEON.D03.JERC.DP1.00002.001.000.040.030.SAAT_30min.csv
+NEON.D03.JERC.DP1.00002.001.000.050.001.SAAT_1min.csv
+NEON.D03.JERC.DP1.00002.001.000.050.030.SAAT_30min.csv
+NEON.D03.OSBS.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D03.OSBS.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D03.OSBS.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D03.OSBS.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D03.OSBS.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D03.OSBS.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.D03.OSBS.DP1.00002.001.000.040.001.SAAT_1min.csv
+NEON.D03.OSBS.DP1.00002.001.000.040.030.SAAT_30min.csv
+NEON.D03.OSBS.DP1.00002.001.000.050.001.SAAT_1min.csv
+NEON.D03.OSBS.DP1.00002.001.000.050.030.SAAT_30min.csv
+NEON.D08.DELA.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D08.DELA.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D08.DELA.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D08.DELA.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D08.DELA.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D08.DELA.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.D08.DELA.DP1.00002.001.000.040.001.SAAT_1min.csv
+NEON.D08.DELA.DP1.00002.001.000.040.030.SAAT_30min.csv
+NEON.D08.DELA.DP1.00002.001.000.050.001.SAAT_1min.csv
+NEON.D08.DELA.DP1.00002.001.000.050.030.SAAT_30min.csv
+NEON.D08.TALL.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D08.TALL.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D08.TALL.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D08.TALL.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D08.TALL.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D08.TALL.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.D08.TALL.DP1.00002.001.000.040.001.SAAT_1min.csv
+NEON.D08.TALL.DP1.00002.001.000.040.030.SAAT_30min.csv
+NEON.D10.CPER.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D10.CPER.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D10.CPER.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D10.CPER.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D10.CPER.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D10.CPER.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.D10.RMNP.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D10.RMNP.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D10.RMNP.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D10.RMNP.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D10.RMNP.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D10.RMNP.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.D10.RMNP.DP1.00002.001.000.040.001.SAAT_1min.csv
+NEON.D10.RMNP.DP1.00002.001.000.040.030.SAAT_30min.csv
+NEON.D10.STER.DP1.00002.001.000.010.001.SAAT_1min.csv
+NEON.D10.STER.DP1.00002.001.000.010.030.SAAT_30min.csv
+NEON.D10.STER.DP1.00002.001.000.020.001.SAAT_1min.csv
+NEON.D10.STER.DP1.00002.001.000.020.030.SAAT_30min.csv
+NEON.D10.STER.DP1.00002.001.000.030.001.SAAT_1min.csv
+NEON.D10.STER.DP1.00002.001.000.030.030.SAAT_30min.csv
+NEON.DOC.000646.pdf
+NEON.DOC.000783.pdf
+NEON.DOC.001069.pdf
+NEON.DOC.011081.pdf
+NEON.DP1.00002.001_readme.txt
+NEON.DP1.00002.001_variables.csv
+NeonDataPolicy.txt
+
+
+
+
+Data Product Description: Air temperature, available as one- and thirty-minute averages of 1 Hz observations.  Observations are made by sensors located at multiple heights on the tower infrastructure and by sensors located on the aquatic meteorological station.Temperature observations are made using platinum resistance thermometers, which are housed in a fan aspirated shield to reduce radiative bias.
+
+Download packages available:
+basic � Includes the data product , summary statistics, expanded uncertainty,  and final quality flag.
+expanded � Includes the basic package information plus quality metrics for all of the quality assessment and quality control analyses.
+request � Provided only for a data product�s lowest time resolution. This package includes the expanded package information as well as the outcomes of the individual quality flags at a data product�s native sampling resolution.  
+
+
+Sensor: Met One/Thermometrics - 076B Fan Aspirated Radiation Shield/Climate RTD 100 ohm Probe
+
+Term descriptions, data types, and units can be found in:
+NEON.DP1.00002.001_variables.csv - Descriptions of all fields used in the above data files.
+
+Additional documentation/metadata for this data product available for download at http://data.neoninc.org/documents  includes:
+NEON.DOC.000646 - Algorithm Theoretical Basis Document Single Aspirated Air Temperature
+NEON.DOC.000783 - Time Series Automatic Despiking for TIS Level 1 Data Products � QA/QC Algorithm Theoretical Basis Document
+NEON.DOC.000785 - TIS Level 1 Data Products Uncertainty Budget Estimation Plan
+NEON.DOC.000927 - Calibration and Sensor Uncertainties
+NEON.DOC.000008 - NEON Acronym List
+NEON.DOC.001069 - Preprocessing for TIS Level 1 Data Products � QA/QC Algorithm Theoretical Basis Document
+NEON.DOC.011081 - NEON Algorithm Theoretical Basis Document QA/QC Plausibility Testing
+
+NEON requests that users cite data use as "National Ecological Observatory Network. 2015. Data accessed on [date of access]. Available on-line  http://data.neoninc.org/ from National Ecological Observatory Network, Boulder, CO, USA." Unique, reproducible citation codes on a per-download basis are currently in development.  - See more at: http://neoninc.org/about/terms-of-use/data-usage-and-citation-policies#sthash.4tXJtQx6.dpuf
+
+These data are considered provisional (created using a baseline algorithm approach with a minimal or reduced set of QA/QC checks). Minor updates to the QA/QC and processing algorithms will occur during construction (prior to 2017). Changes to provisional data products will occur on an as-needed basis.  Please check back to this site for updates tracked in change logs.  Query reproducibility on provisional data cannot be guaranteed.  
+
+Change log: 
+
+
